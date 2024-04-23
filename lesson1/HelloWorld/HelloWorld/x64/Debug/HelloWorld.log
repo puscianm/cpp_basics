@@ -1,12 +1,2 @@
 ﻿  HelloWorld.cpp
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\HelloWorld.cpp(5,7): error C2143: błąd składniowy: brakuje „;” przed „std::cout”
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\HelloWorld.cpp(5,12): error C2143: błąd składniowy: brakuje „;” przed „<<”
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\HelloWorld.cpp(5,12): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\HelloWorld.cpp(5,7): error C2371: "std::cout": zmiana definicji; różne typy podstawowe
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iostream(39,75):
-  zobacz deklarację „std::cout”
-  
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\HelloWorld.cpp(5,12): error C2059: błąd składniowy: „<<”
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\HelloWorld.cpp(6,2): error C2059: błąd składniowy: „return”
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\HelloWorld.cpp(7,1): error C2059: błąd składniowy: „}”
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\HelloWorld.cpp(7,1): error C2143: błąd składniowy: brakuje „;” przed „}”
+  HelloWorld.vcxproj -> C:\Users\micha\Desktop\Repozytoria\cpp_basics\lesson1\HelloWorld\x64\Debug\HelloWorld.exe
