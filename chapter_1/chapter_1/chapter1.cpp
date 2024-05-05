@@ -33,8 +33,21 @@ void lesson_1_5_cout_cin() {
 }
 
 void lesson_1_6_uninitialized_variables() {
-	int unitialized_variable;
-	std::cout << unitialized_variable;
+	std::cout << "--------lesson 1.6--------" << '\n';
+	//int unitialized_variable;
+	//std::cout << unitialized_variable;
+}
+
+void lesson17KewordAndNamingIndentifiers() {
+	std::cout << "--------lesson 1.7--------" << '\n';
+
+	//we use small letters for variables and functions
+	//we use capital letters for user defined types like classes or structs
+
+	//good variable and function name
+	int coins;
+	std::cout << coins;
+	int countCoins();
 }
 
 
@@ -43,5 +56,6 @@ int main()
 	lesson_1_4_variable_initialization();
 	//lesson_1_5_cout_cin();
 	lesson_1_6_uninitialized_variables();
+	lesson17KewordAndNamingIndentifiers();
 	return 0;
 }

@@ -1,2 +1,0 @@
-﻿  chapter1.cpp
-C:\Users\micha\Desktop\Repozytoria\cpp_basics\chapter_1\chapter_1\chapter1.cpp(37,1): error C4700: użycie niezainicjowanej zmiennej lokalnej "unitialized_variable"
