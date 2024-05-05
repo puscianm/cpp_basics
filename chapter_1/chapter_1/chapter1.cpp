@@ -44,10 +44,15 @@ void lesson17KewordAndNamingIndentifiers() {
 	//we use small letters for variables and functions
 	//we use capital letters for user defined types like classes or structs
 
-	//good variable and function name
-	int coins;
+	//good variable and function names
+	int coins{};
 	std::cout << coins;
-	int countCoins();
+	int coinsCount();
+
+	//good practice is to describe in comment above what variable is used for. E.g.
+
+	// Length of boat in centimeters. Measured from bow to stern.
+	int boatLength {};
 }
 
 
