@@ -1,3 +1,5 @@
+#include<iostream>
+
 int main()
 {
     /*
@@ -9,5 +11,7 @@ int main()
     Memory adress
         holds one byte of data
     */
+    
+    std::cout << "size of long double is: " <<sizeof(long double) << '\n';
     return 0;
 }
