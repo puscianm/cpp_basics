@@ -12,6 +12,11 @@ int main()
         holds one byte of data
     */
     
-    std::cout << "size of long double is: " <<sizeof(long double) << '\n';
+    std::cout << "size of double double is: " <<sizeof(long double) << '\n';
     return 0;
 }
+
+
+
+
+
